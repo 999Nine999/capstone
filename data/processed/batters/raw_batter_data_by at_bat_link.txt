@@ -1,0 +1,1 @@
+raw batter data by at bat available here: https://flatironcapstone.s3.amazonaws.com/data/raw_batter_data_by_ab_2019.pickle
